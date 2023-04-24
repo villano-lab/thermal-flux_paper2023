@@ -1,4 +1,4 @@
-#DataThief C:\Users\cecih\OneDrive - Colorado School of Mines\Desktop\Lab\thief this one.png Monday 13-Mar-2023 3:08:42 PM
+#DataThief C:\Users\cecih\OneDrive - Colorado School of Mines\Desktop\Lab\thief this one.png Monday 13-Mar-2023 2:25:02 PM
 524.4211, 7.3256
 530.1161, 7.1417
 519.8351, 6.3613
@@ -95,6 +95,7 @@
 770.2354, 4.1609
 752.5689, 5.3155
 687.8277, 5.7022
+1538.9978, 4.1333
 790.3884, 6.1453
 768.5994, 5.8554
 788.0499, 5.7102
@@ -111,6 +112,8 @@
 801.5653, 5.0454
 832.5551, 5.3299
 839.721, 5.5269
+1648.8841, 3.6556
+1529.8295, 3.1527
 807.7692, 4.3342
 816.0662, 4.3123
 823.4777, 4.2551
