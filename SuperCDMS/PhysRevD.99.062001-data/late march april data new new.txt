@@ -1,4 +1,3 @@
-#DataThief C:\Users\cecih\OneDrive - Colorado School of Mines\Desktop\Lab\thief this one.png Monday 13-Mar-2023 2:25:02 PM
 524.4211, 7.3256
 530.1161, 7.1417
 519.8351, 6.3613
